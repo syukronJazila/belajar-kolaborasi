@@ -4,3 +4,4 @@ Perubahan 2 dari Readme.md
 Perubahan 3 dari Readme.md  
 
 Belajar Codew Review
+Belajar Revisi langsung dari PR yang sama
